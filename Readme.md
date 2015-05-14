@@ -1,0 +1,1 @@
+Dieses Framework muss das einfache Tranieren von OpenNLP Modellen aus verschiedenen Quellen ermöglichen.
